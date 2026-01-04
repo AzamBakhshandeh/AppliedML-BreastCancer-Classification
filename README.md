@@ -1,68 +1,84 @@
-# Applied ML – Breast Cancer Classification
+# 🧠 Applied ML – Breast Cancer Classification
 
-This repository contains an **Applied Machine Learning (Basic)** project focused on  
-**binary classification of breast cancer tumors** using the  
-**Wisconsin Diagnostic Breast Cancer (WDBC)** dataset.
-
-The project implements a **Logistic Regression baseline** with proper  
-data preprocessing, model selection, and evaluation following ML best practices.
+An **Applied Machine Learning (Basic)** project on **binary classification** of breast cancer tumors  
+using the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset and a **Logistic Regression** baseline.
 
 ---
 
-## Project Overview
+## 🎯 Project Summary
 - **Task:** Binary classification (benign vs malignant)
 - **Dataset:** Wisconsin Diagnostic Breast Cancer (WDBC)
+- **Source:** `sklearn.datasets.load_breast_cancer`
 - **Model:** Logistic Regression (L2 regularization)
-- **Framework:** scikit-learn
+- **Preprocessing:** StandardScaler (sklearn Pipeline)
+- **Model Selection:** GridSearchCV
 - **Evaluation:** Accuracy, Precision, Recall, F1-score, Confusion Matrix
-- **Validation:** Stratified Train / Validation / Test split + GridSearchCV
+- **Interpretability:** Feature importance via logistic regression coefficients
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
+
+```
 AppliedML-BreastCancer-Classification/
-├── notebooks/
-│ └── 01_wdbc_logistic_regression.ipynb
-├── reports/
-│ └── project_report.pdf
-├── figures/
-└── README.md
+ ├── notebooks/
+ │  └──  01_wdbc_logistic_regression.ipynb
+ ├── reports/
+ │  └──  project_report.pdf
+ ├── figures/
+ ├── workflow.md
+ └── README.md
+```
 
 ---
 
-## How to Run
+## 🚀 Quick Start
 1. Install dependencies
- - pip install -r requirements.txt
-
+   ```
+   pip install -r requirements.txt
+   ```
+   
 2. Launch Jupyter
- - jupyter lab
-
+   ```
+   jupyter lab
+   ```
+   
 3. Open the notebook
- - notebooks/01_wdbc_logistic_regression.ipynb
+   ```
+   notebooks/01_wdbc_logistic_regression.ipynb
+   ```
 
 ---
 
-## Methodology
-1. Dataset loading and exploratory analysis
-2. Stratified data splitting
-3. Feature scaling with StandardScaler
-4. Logistic Regression baseline
-5. Hyperparameter tuning using GridSearchCV
-6. Learning and validation curves
-7. Final evaluation on the test set
-8. Interpretation of model coefficients
+## 🧪 Methodology (Overview)
+
+- Stratified Train / Validation / Test split
+- Pipeline-based preprocessing to avoid data leakage
+- Logistic Regression baseline with L2 regularization
+- Hyperparameter tuning using GridSearchCV
+- Learning and validation curves for model diagnostics
+- Final evaluation on an unseen test set
 
 ---
 
-## Results (Summary)
+## 📊 Results (Summary)
 - High classification performance on unseen test data
 - Balanced precision and recall across classes
-- Interpretable model through logistic regression coefficients
+- Clear and interpretable coefficients highlighting relevant features
 
 Detailed results and discussion are available in the **project report (PDF)**.
 
 ---
 
-## Author
+## 📄 Documentation
+
+- Full step-by-step workflow: workflow.md
+- Complete analysis and results: reports/project_report.pdf
+
+---
+
+## 👩‍💻 Author
 **Azam Bakhshandeh**  
 MSc Bioinformatics — University of Bologna
+
+ 
