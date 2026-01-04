@@ -77,6 +77,24 @@ Detailed results and discussion are available in the **project report (PDF)**.
 
 ---
 
+## 📌 Full Pipeline Documentation
+
+For a complete, step-by-step description of the full machine learning workflow  
+(data loading, preprocessing, model training, validation, and evaluation), see:
+
+👉 `workflow.md`
+
+This file documents the pipeline in detail and complements the high-level overview provided in this README.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for details.
+
+---
+
 ## 👩‍💻 Author
 **Azam Bakhshandeh**  
 MSc Bioinformatics — University of Bologna
