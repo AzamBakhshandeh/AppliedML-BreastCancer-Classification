@@ -11,4 +11,8 @@ This folder contains the Jupyter notebooks used in the
 - Learning and validation curves
 - Final evaluation on the test set
 
-> The notebook is provided with executed cells and saved outputs for visualization and reproducibility.
+> ℹ️ The notebook is provided with **executed cells** and **saved outputs** for visualization and reproducibility.
+
+
+# 📎 Notebook file
+- [`wdbc_logistic_regression_01.ipynb`](wdbc_logistic_regression_01.ipynb)
