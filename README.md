@@ -34,10 +34,10 @@ AppliedML-BreastCancer-Classification/
 
 ## 📂 Project Contents
 
-- 📓 **Notebooks**: [`notebooks/`](notebooks)  
+- 📓 **Notebooks**: [`notebooks`](notebooks)  
   Jupyter notebooks with the full machine learning pipeline.
 
-- 📊 **Figures**: [`figures/`](figures)  
+- 📊 **Figures**: [`figures`](figures)  
   Exported plots and evaluation figures.
 
 - 🧭 **Full workflow**: [`workflow.md`](workflow.md)  
