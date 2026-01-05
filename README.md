@@ -61,7 +61,7 @@ AppliedML-BreastCancer-Classification/
    
 3. Open the notebook
    ```
-   notebooks/01_wdbc_logistic_regression.ipynb
+   notebooks/wdbc_logistic_regression_01.ipynb
    ```
 
 ---
