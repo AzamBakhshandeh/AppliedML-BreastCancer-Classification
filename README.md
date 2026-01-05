@@ -88,7 +88,7 @@ This file documents the pipeline in detail and complements the high-level overvi
 
 ---
 
-## 📜 License
+## ⚖️ License
 
 This project is licensed under the **MIT License**.  
 See the `LICENSE` file for details.
