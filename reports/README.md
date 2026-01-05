@@ -9,5 +9,6 @@ Includes:
 - Experimental results
 - Discussion and conclusions
 
-# 📎 Main file:
+
+# 📎 Main file
 - [`project_report.pdf`](project_report.pdf)
