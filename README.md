@@ -78,11 +78,13 @@ AppliedML-BreastCancer-Classification/
 ---
 
 ## 📊 Results (Summary)
-- High classification performance on unseen test data
-- Balanced precision and recall across classes
-- Clear and interpretable coefficients highlighting relevant features
 
-Detailed results and discussion are available in the **project report (PDF)**.
+- **Test Accuracy:** ~98.2%
+- **Precision / Recall / F1-score (malignant class):** ~98.6%
+- **ROC AUC (test):** 1.00
+- **PR AUC (test):** 1.00
+
+Detailed evaluation figures are available in the [`figures/`](figures/) directory.
 
 ---
 
