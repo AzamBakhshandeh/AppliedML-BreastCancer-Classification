@@ -1,4 +1,4 @@
-## Project Report
+# 📄 Project Report
 
 Final report for the **AppliedML-BreastCancer-Classification** project.
 
@@ -8,3 +8,6 @@ Includes:
 - Methodology
 - Experimental results
 - Discussion and conclusions
+
+# 📎 Main file:
+- [`project_report.pdf`](project_report.pdf)
