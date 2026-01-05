@@ -1,4 +1,4 @@
-# Notebooks
+# 📓 Notebooks
 
 This folder contains the Jupyter notebooks used in the  
 **AppliedML-BreastCancer-Classification** project.
