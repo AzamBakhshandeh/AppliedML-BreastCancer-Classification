@@ -96,8 +96,8 @@ Detailed evaluation figures are available in the [`figures/`](figures/) director
 
 ## 📄 Documentation
 
-- Full step-by-step workflow: workflow.md
-- Complete analysis and results: reports/project_report.pdf
+- Full step-by-step workflow: [workflow.md](workflow.md)
+- Complete analysis and results: [`reports/project_report.pdf`](reports/project_report.pdf)  
 
 ---
 
