@@ -6,6 +6,7 @@ using the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset and a **Logistic
 ---
 
 ## 🎯 Project Summary
+
 - **Task:** Binary classification (benign vs malignant)
 - **Dataset:** Wisconsin Diagnostic Breast Cancer (WDBC)
 - **Source:** `sklearn.datasets.load_breast_cancer`
@@ -22,9 +23,13 @@ using the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset and a **Logistic
 ```
 AppliedML-BreastCancer-Classification/
  ├── notebooks/
+ │  ├── README.md
  │  └──  wdbc_logistic_regression_01.ipynb
+ │
  ├── reports/
+ │  ├── README.md
  │  └──  project_report.pdf
+ │
  ├── figures/
  ├── workflow.md
  └── README.md
@@ -49,6 +54,7 @@ AppliedML-BreastCancer-Classification/
 ---
 
 ## 🚀 Quick Start
+
 1. Install dependencies
    ```
    pip install -r requirements.txt
@@ -116,5 +122,3 @@ See the `LICENSE` file for details.
 ## 👩‍💻 Author
 **Azam Bakhshandeh**  
 MSc Bioinformatics — University of Bologna
-
- 
