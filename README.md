@@ -24,11 +24,11 @@ using the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset and a **Logistic
 AppliedML-BreastCancer-Classification/
  ├── notebooks/
  │  ├── README.md
- │  └──  wdbc_logistic_regression_01.ipynb
+ │  └── wdbc_logistic_regression_01.ipynb
  │
  ├── reports/
  │  ├── README.md
- │  └──  project_report.pdf
+ │  └── project_report.pdf
  │
  ├── figures/
  ├── workflow.md
