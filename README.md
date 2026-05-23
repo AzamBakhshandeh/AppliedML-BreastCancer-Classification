@@ -5,7 +5,7 @@ using the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset and a **Logistic
 
 ---
 
-## 🎯 Project Summary
+## 🎯 Project Overview
 
 - **Task:** Binary classification (benign vs malignant)
 - **Dataset:** Wisconsin Diagnostic Breast Cancer (WDBC)
@@ -13,7 +13,7 @@ using the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset and a **Logistic
 - **Model:** Logistic Regression (L2 regularization)
 - **Preprocessing:** StandardScaler (sklearn Pipeline)
 - **Model Selection:** GridSearchCV
-- **Evaluation:** Accuracy, Precision, Recall, F1-score, Confusion Matrix
+- **Evaluation:** Accuracy, Precision, Recall, F1-score, ROC AUC, Confusion Matrix
 - **Interpretability:** Feature importance via logistic regression coefficients
 
 ---
@@ -101,12 +101,12 @@ Detailed evaluation figures are available in the [`figures/`](figures/) director
 
 ---
 
-## 📌 Full Pipeline Documentation
+## 🧭 Full Pipeline Documentation
 
 For a complete, step-by-step description of the full machine learning workflow  
 (data loading, preprocessing, model training, validation, and evaluation), see:
 
-👉 See [workflow.md](workflow.md)
+👉 See the complete workflow documentation in [workflow.md](workflow.md)
 
 This file documents the pipeline in detail and complements the high-level overview provided in this README.
 
